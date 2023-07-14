@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    padding: 2cqb;
+    width: 460px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 25%;
+    height: 130px;
+}
+.wrapper h1{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    width: 500px;
+    padding: 30px;
+}
+button{
+    width: 200px;
+    height: 60px;
+    margin: auto;
+    position: absolute;
+    border-radius:10px;
+    margin:10px;
+    font-size: 18px;
+    right:42%;
+}
